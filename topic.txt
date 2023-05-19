@@ -1,0 +1,9 @@
+1.下面哪个是软件代码版本控制软件?￥A、project￥B、SVN￥C、notepad++￥D、Xshell:B
+2.下面哪个阶段不是项目管理流程中的阶段?￥A、项目立项￥B、项目开发￥C、项目测试￥D、项目自保:D
+3.VRRP协议报文使用的固定组播地址是？￥A.127.0.0.1￥B.192.168.0.1￥C.169.254.254.254￥D. 224.0.0.18:D
+4.每个物理端口传输速率为100 Mb/s，将2个物理端口聚合成逻辑端口后，该聚合端口AP的传输速率为多少？￥A.200Mb/s￥B.100Mb/s￥C.300Mb/s￥D.50Mb/s:A
+5.下列关于DHCP服务器的描述中，正确的是？￥A.客户端只能接受本网段DHCP服务器提供的IP地址￥B.需要保留的IP地址可以包含在DHCP服务器的地址池中￥C.DHCP服务器不能帮助用户指定DNS服务器￥D.DHCP服务器可以将一个IP地址同时分配给两个不同的用户:B
+6.下列选项当中，创建名称为test的数据库的正确命令是？￥A.mysql -uroot –p000000 create test￥B.mysqladmin -uroot –p000000 create test￥C.mysql -u root-p 000000 create test￥D.mysqladmin -u root-p 000000 create test:B
+7.操作Nginx时需要与哪个进程进行通讯？￥A.主进程￥B.通讯进程￥C.网络进程￥D.worker进程:A
+8.Nginx中重新加载配置Master在接受到什么信号后，会先重新加载配置？￥A.kill -HUP pid￥B.start -HUP pid￥C.stop -HUP pid￥D.restart -HUP pid:A
+9.以下哪个服务为OpenStack平台提供了消息服务？￥A.Keystone￥B.Neutron￥C.RabbitMQ￥D.Nova:C
